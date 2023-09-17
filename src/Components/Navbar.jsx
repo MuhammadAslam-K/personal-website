@@ -15,6 +15,8 @@ function Navbar() {
                             <li className="nav-item"><Link to={"/about"} className="nav-link" >About Me</Link></li>
                             <li className="nav-item"><Link to={"/blogs"} className="nav-link" >My blog</Link></li>
                             <li className="nav-item"><Link to={"/contact"} className="nav-link" >Contact</Link></li>
+                            <li className="nav-item"><Link to={"/addblog"} className="nav-link" >Addblog</Link></li>
+
                         </ul>
                     </div>
                 </div>
